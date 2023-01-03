@@ -1,7 +1,8 @@
+#!/usr/bin/python3 
+
 import mmap
 import os
 import glob
-
 import hashlib
 from Crypto import Random
 from Crypto.Cipher import AES
